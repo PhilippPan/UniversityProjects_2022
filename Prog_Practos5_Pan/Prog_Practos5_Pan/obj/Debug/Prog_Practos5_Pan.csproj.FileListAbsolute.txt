@@ -1,0 +1,10 @@
+D:\!Учеба\Prog_Projects\Prog_Practos5_Pan\Prog_Practos5_Pan\bin\Debug\Prog_Practos5_Pan.exe.config
+D:\!Учеба\Prog_Projects\Prog_Practos5_Pan\Prog_Practos5_Pan\bin\Debug\Prog_Practos5_Pan.exe
+D:\!Учеба\Prog_Projects\Prog_Practos5_Pan\Prog_Practos5_Pan\bin\Debug\Prog_Practos5_Pan.pdb
+D:\!Учеба\Prog_Projects\Prog_Practos5_Pan\Prog_Practos5_Pan\obj\Debug\Prog_Practos5_Pan.csproj.AssemblyReference.cache
+D:\!Учеба\Prog_Projects\Prog_Practos5_Pan\Prog_Practos5_Pan\obj\Debug\Prog_Practos5_Pan.Form1.resources
+D:\!Учеба\Prog_Projects\Prog_Practos5_Pan\Prog_Practos5_Pan\obj\Debug\Prog_Practos5_Pan.Properties.Resources.resources
+D:\!Учеба\Prog_Projects\Prog_Practos5_Pan\Prog_Practos5_Pan\obj\Debug\Prog_Practos5_Pan.csproj.GenerateResource.cache
+D:\!Учеба\Prog_Projects\Prog_Practos5_Pan\Prog_Practos5_Pan\obj\Debug\Prog_Practos5_Pan.csproj.CoreCompileInputs.cache
+D:\!Учеба\Prog_Projects\Prog_Practos5_Pan\Prog_Practos5_Pan\obj\Debug\Prog_Practos5_Pan.exe
+D:\!Учеба\Prog_Projects\Prog_Practos5_Pan\Prog_Practos5_Pan\obj\Debug\Prog_Practos5_Pan.pdb
