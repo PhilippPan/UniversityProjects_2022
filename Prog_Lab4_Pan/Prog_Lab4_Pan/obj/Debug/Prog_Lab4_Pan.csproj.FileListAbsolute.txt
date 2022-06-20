@@ -1,0 +1,12 @@
+D:\!Учеба\Prog_Projects\Prog_Lab4_Pan\Prog_Lab4_Pan\bin\Debug\Prog_Lab4_Pan.exe.config
+D:\!Учеба\Prog_Projects\Prog_Lab4_Pan\Prog_Lab4_Pan\bin\Debug\Prog_Lab4_Pan.exe
+D:\!Учеба\Prog_Projects\Prog_Lab4_Pan\Prog_Lab4_Pan\bin\Debug\Prog_Lab4_Pan.pdb
+D:\!Учеба\Prog_Projects\Prog_Lab4_Pan\Prog_Lab4_Pan\obj\Debug\Prog_Lab4_Pan.MainForm.resources
+D:\!Учеба\Prog_Projects\Prog_Lab4_Pan\Prog_Lab4_Pan\obj\Debug\Prog_Lab4_Pan.Properties.Resources.resources
+D:\!Учеба\Prog_Projects\Prog_Lab4_Pan\Prog_Lab4_Pan\obj\Debug\Prog_Lab4_Pan.csproj.GenerateResource.cache
+D:\!Учеба\Prog_Projects\Prog_Lab4_Pan\Prog_Lab4_Pan\obj\Debug\Prog_Lab4_Pan.csproj.CoreCompileInputs.cache
+D:\!Учеба\Prog_Projects\Prog_Lab4_Pan\Prog_Lab4_Pan\obj\Debug\Prog_Lab4_Pan.exe
+D:\!Учеба\Prog_Projects\Prog_Lab4_Pan\Prog_Lab4_Pan\obj\Debug\Prog_Lab4_Pan.pdb
+D:\!Учеба\Prog_Projects\Prog_Lab4_Pan\Prog_Lab4_Pan\obj\Debug\Prog_Lab4_Pan.ViewDataForm.resources
+D:\!Учеба\Prog_Projects\Prog_Lab4_Pan\Prog_Lab4_Pan\obj\Debug\Prog_Lab4_Pan.EditDataForm.resources
+D:\!Учеба\Prog_Projects\Prog_Lab4_Pan\Prog_Lab4_Pan\obj\Debug\Prog_Lab4_Pan.csproj.AssemblyReference.cache

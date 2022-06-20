@@ -1,0 +1,10 @@
+D:\!Учеба\Prog_Projects\Prog_Practos4_Pan\Prog_Practos4_Pan\bin\Debug\Prog_Practos4_Pan.exe.config
+D:\!Учеба\Prog_Projects\Prog_Practos4_Pan\Prog_Practos4_Pan\bin\Debug\Prog_Practos4_Pan.exe
+D:\!Учеба\Prog_Projects\Prog_Practos4_Pan\Prog_Practos4_Pan\bin\Debug\Prog_Practos4_Pan.pdb
+D:\!Учеба\Prog_Projects\Prog_Practos4_Pan\Prog_Practos4_Pan\obj\Debug\Prog_Practos4_Pan.csproj.AssemblyReference.cache
+D:\!Учеба\Prog_Projects\Prog_Practos4_Pan\Prog_Practos4_Pan\obj\Debug\Prog_Practos4_Pan.Properties.Resources.resources
+D:\!Учеба\Prog_Projects\Prog_Practos4_Pan\Prog_Practos4_Pan\obj\Debug\Prog_Practos4_Pan.csproj.GenerateResource.cache
+D:\!Учеба\Prog_Projects\Prog_Practos4_Pan\Prog_Practos4_Pan\obj\Debug\Prog_Practos4_Pan.csproj.CoreCompileInputs.cache
+D:\!Учеба\Prog_Projects\Prog_Practos4_Pan\Prog_Practos4_Pan\obj\Debug\Prog_Practos4_Pan.exe
+D:\!Учеба\Prog_Projects\Prog_Practos4_Pan\Prog_Practos4_Pan\obj\Debug\Prog_Practos4_Pan.pdb
+D:\!Учеба\Prog_Projects\Prog_Practos4_Pan\Prog_Practos4_Pan\obj\Debug\Prog_Practos4_Pan.MainForm.resources
