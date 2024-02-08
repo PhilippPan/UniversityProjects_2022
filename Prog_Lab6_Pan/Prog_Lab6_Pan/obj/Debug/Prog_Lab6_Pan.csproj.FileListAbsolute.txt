@@ -1,0 +1,11 @@
+D:\!Учеба\Prog_Projects\Prog_Lab6_Pan\Prog_Lab6_Pan\bin\Debug\Prog_Lab6_Pan.exe.config
+D:\!Учеба\Prog_Projects\Prog_Lab6_Pan\Prog_Lab6_Pan\bin\Debug\Prog_Lab6_Pan.exe
+D:\!Учеба\Prog_Projects\Prog_Lab6_Pan\Prog_Lab6_Pan\bin\Debug\Prog_Lab6_Pan.pdb
+D:\!Учеба\Prog_Projects\Prog_Lab6_Pan\Prog_Lab6_Pan\obj\Debug\Prog_Lab6_Pan.csproj.AssemblyReference.cache
+D:\!Учеба\Prog_Projects\Prog_Lab6_Pan\Prog_Lab6_Pan\obj\Debug\Prog_Lab6_Pan.MainForm.resources
+D:\!Учеба\Prog_Projects\Prog_Lab6_Pan\Prog_Lab6_Pan\obj\Debug\Prog_Lab6_Pan.Properties.Resources.resources
+D:\!Учеба\Prog_Projects\Prog_Lab6_Pan\Prog_Lab6_Pan\obj\Debug\Prog_Lab6_Pan.csproj.GenerateResource.cache
+D:\!Учеба\Prog_Projects\Prog_Lab6_Pan\Prog_Lab6_Pan\obj\Debug\Prog_Lab6_Pan.csproj.CoreCompileInputs.cache
+D:\!Учеба\Prog_Projects\Prog_Lab6_Pan\Prog_Lab6_Pan\obj\Debug\Prog_Lab6_Pan.exe
+D:\!Учеба\Prog_Projects\Prog_Lab6_Pan\Prog_Lab6_Pan\obj\Debug\Prog_Lab6_Pan.pdb
+D:\!Учеба\Prog_Projects\Prog_Lab6_Pan\Prog_Lab6_Pan\obj\Debug\Prog_Lab6_Pan.SettingsForm.resources
